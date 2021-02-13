@@ -1,19 +1,19 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: ISABELLA KUO
+description: 'Mother of 12 plants and more'
+url: 'http://isabellakuo.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Isabella Kuo'
+  email: isabella.kuo@mail.utoronto.ca
+#  twitter_username: joshgerdes
+#  facebook_username: joshgerdes
+#  github_username:  joshgerdes
+  linkedin_username:  isabellakuo
 
 defaults:
   -
@@ -41,4 +41,4 @@ kramdown:
   hard_wrap: false
 
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
